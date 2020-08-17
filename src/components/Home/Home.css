@@ -1,0 +1,29 @@
+.home {
+    background-image: url("../images/hungary.jpg");
+    height: 800px;
+    width: 100%;
+    margin-top: -1.5%;
+
+}
+.main {
+    justify-content: center;
+    text-align: center;
+    padding-top: 100px;
+    align-content: center;
+    align-items: center;
+    
+    
+ 
+}
+
+.maintxt{
+        margin: auto;
+        width: 50%;
+        border: 3px solid aqua;
+        padding: 10px;
+        text-align: center;
+        
+      }
+
+
+
